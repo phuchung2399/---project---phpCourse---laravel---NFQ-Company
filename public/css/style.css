@@ -1,0 +1,21 @@
+.container {
+    margin-left: 60px;
+}
+
+.menu {
+    display: flex;
+}
+
+.selection {
+    width: 200px;
+}
+
+.filter {
+    display: flex;
+    margin-left: 750px;
+    margin-bottom: 10px;
+}
+
+.button-filter {
+    margin-left: 20px;
+}
